@@ -14,5 +14,6 @@ Update all submodules:
 	git submodule update
 
 NOTE: Always add new plugins as your dotvim repo's submodules! Here how:
+	
 	cd bundle
 	git submodule add <url_to_the_plugin>
